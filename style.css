@@ -1,0 +1,39 @@
+#jocPenjat {
+    margin-top: 22px;
+    text-align: center;
+}
+
+#buttonInicia {
+    background-color: green;
+}
+
+#buttonEstadisticas {
+    background-color: blue;
+}
+
+#eliminaLocalStorage {
+    background-color: red;
+}
+
+#palabrasOcultas {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#abecedario {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.letrasAbecedario {
+    margin-top: 40px;
+}
+
+.letras {
+    margin-right: 5px;
+}
+
+#img_penjat {
+    margin-top: 40px;
+    text-align: center;
+}
